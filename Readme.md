@@ -4,20 +4,22 @@
 
 <img src="screenshot.png" width="50%" alt="3 pane Mac application with select folder button list of files and text editor">
 
-This is a sample project I decided to publush together with a blog post with everything 
-I learned so far about working with file system on macOS. There's not many modern working code examples out there. 
-I hope this will help someone. It's fun to develop for the Mac, and I hope this helps somone, it always great to 
+This is a sample project I decided to publish together with [the blog post][1] with everything 
+I learned so far about working with the file system on macOS. There are not many modern working code examples out there. 
+I hope this will help someone. It's fun to develop for the Mac, and I hope this helps someone, it always great to 
 see more native applications out there.
 
 ## Features
 
 - 100% SwiftUI
-- Working example how to use `NSDocument`
-- Pick a root folder and get a permanent read/write access without violating sandobx
-- No need in full disk access or permission dialogs 
-- Monitors files changes
+- Working example of how to use `NSDocument`
+- Pick a root folder and get permanent read/write access without violating Sandobx
+- No need for full disk access or permission dialogues 
+- Monitors file changes
 - Basic text editing
 - Conflicts resolution
 - Potentially compatible with UIKit
 
 Visit my [website](https://www.cocoa.productions), subscribe to my [micro blog.](https://micro.cocoaswitch.com)
+
+[1]: https://micro.cocoaswitch.com/2023/04/06/working-with-file.html
