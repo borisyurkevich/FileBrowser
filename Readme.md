@@ -34,7 +34,7 @@ I can't guarantee that the code is written in the best way and contains no bugs.
 - Possibly this can be turned into a Swift Package for easier integration into larger projects
 - Handling a scenario when root folder is moved or renamed
 
-Visit my [website](https://www.cocoa.productions), subscribe to my [micro blog.](https://micro.cocoaswitch.com)
+Visit my [website,](https://www.cocoa.productions) subscribe to my [micro blog.](https://micro.cocoaswitch.com)
 
 [1]: https://micro.cocoaswitch.com/2023/04/06/working-with-file.html
 [2]: https://developer.apple.com/documentation/dispatch/dispatchsource
