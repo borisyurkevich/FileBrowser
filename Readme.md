@@ -5,8 +5,8 @@
 <img src="screenshot.png" width="50%" alt="3 pane Mac application with select folder button list of files and text editor">
 
 This is a sample project I decided to publish together with [the blog post][1] with everything 
-I learned so far about working with the file system on macOS. There are not many modern working code examples out there. 
-I hope this will help someone. It's fun to develop for the Mac, and I hope this helps someone, it always great to 
+I learned so far about working with the file system on macOS. There are not many modern working `AppKit` code examples out there. 
+It's fun to develop for the Mac, and I hope this helps someone, it always great to 
 see more native applications out there.
 
 ## Features
