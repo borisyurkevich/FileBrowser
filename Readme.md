@@ -11,7 +11,7 @@ see more native applications out there.
 
 ## Features
 
-- 100% `SwiftUI`
+- `SwiftUI`
 - Monitors file changes with [`DispatchSource`][2] 
 - Basic text editing
 - Working example of how to use `NSDocument`
