@@ -24,13 +24,13 @@ see more native applications out there.
 
 This project is learning process for me, feel free to suggest changes and raise issues. I am not looking to add any new UI features, but instead interested in improving app, document, and editor models. 
 
-I can't guarantee that the code is written in the best way and contains no bugs.
+I can't guarantee that the code is written in the best way and bug-free.
 
 ## Wants
 
 - Any improvements which utilise more of the `NSDocument` features, and using more higher level APIs, like `NSDocumentController`
 - iOS and iPadOS compatibility
-- Customisation for conflict resolution, allowing a user to update documents from disk from changes made externally. The app will possibly need a setting to change behaviour.
+- Customisation for conflict resolution, allowing a user to update documents from disk from changes made externally. The app will possibly need a setting to change behaviour
 - Possibly this can be turned into a Swift Package for easier integration into larger projects
 - Handling a scenario when root folder is moved or renamed
 
