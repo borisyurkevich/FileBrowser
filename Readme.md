@@ -15,7 +15,7 @@ see more native applications out there.
 - Working example of how to use `NSDocument`
 - Pick a root folder and get permanent read/write access without violating Sandobx
 - No need for full disk access or permission dialogues 
-- Monitors file changes
+- Monitors file changes with [`DispatchSource`.][2] 
 - Basic text editing
 - Conflicts resolution
 - Potentially compatible with `UIKit`
@@ -23,3 +23,4 @@ see more native applications out there.
 Visit my [website](https://www.cocoa.productions), subscribe to my [micro blog.](https://micro.cocoaswitch.com)
 
 [1]: https://micro.cocoaswitch.com/2023/04/06/working-with-file.html
+[2]: https://developer.apple.com/documentation/dispatch/dispatchsource
