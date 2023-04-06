@@ -12,11 +12,11 @@ see more native applications out there.
 ## Features
 
 - 100% `SwiftUI`
+- Monitors file changes with [`DispatchSource`.][2] 
+- Basic text editing
 - Working example of how to use `NSDocument`
 - Pick a root folder and get permanent read/write access without violating Sandobx
 - No need for full disk access or permission dialogues 
-- Monitors file changes with [`DispatchSource`.][2] 
-- Basic text editing
 - Conflicts resolution
 - Potentially compatible with `UIKit`
 
