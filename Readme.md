@@ -9,6 +9,11 @@ I learned so far about working with the file system on macOS. There are not many
 It's fun to develop for the Mac, and I hope this helps someone, it always great to 
 see more native applications out there. 
 
+## Requirements
+
+- Mac running macOS 13.1 or newer
+- Xcode installed 
+
 ## Features
 
 - `SwiftUI`
